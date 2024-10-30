@@ -15,7 +15,7 @@ twitter_username: n/a
 facebook_username: https://www.facebook.com/lance.nelson.370177
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
-# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume #yep
 baseurl:
 
 exclude:
