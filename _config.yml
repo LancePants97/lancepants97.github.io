@@ -1,20 +1,18 @@
-title: Title of your CV site
-profile_img: /assets/img/profile.webp
-icon_img: /assets/img/icon.webp
+title: My Portfolio Site
+profile_img: /assets/img/logo.png
+icon_img: /assets/img/logo.png
 
-name: "Your Name Here"
-job: "〈Your Job Here〉"
+name: "Lance Nelson"
+job: "Backend Software Engineer"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+phone_number: 732-232-6935
+address: Point Pleasant, New Jersey
+email: LanceN04@gmail.com
+linkedin_username: www.linkedin.com/in/lance-nelson
+github_username: https://github.com/LancePants97
+instagram_username: lance_toyf
+twitter_username: n/a
+facebook_username: https://www.facebook.com/lance.nelson.370177
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
