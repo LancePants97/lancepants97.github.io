@@ -6,12 +6,12 @@ contents:
     description: 
       - "‘Guardian Angel’ is a full stack Rails application that will allow users to create an account and gain access to resources that can boost mental health and/or help in times of crisis. Users will be able to select from a list of emotions and feelings as many times per day as they wish. By accessing the ‘ThroughLine API’, a list of helpful resources will be returned to the user, including, but not limited to, phone numbers, sms hotlines, support groups, and relevant, helpful websites."
       - "The BE Journal Repository is responsible for serving as the data base of a users journal information. It packages JSON responses for the front end application with a users particular journal entries along with an affirmation which is unique. This affirmation comes from another API being consumed within the Guardian Angel Backend Journal Repository."
-      - "Technology Used: Ruby on Rails, Bootstrap, Sinatra"
+      - "Technologies Used: Ruby on Rails, Bootstrap, Sinatra"
     image: <img src="assets/img/guardian_angel_logo.jpeg" alt="Guardian Angel Logo" width="200"/>
   
   - title: "Chess With Frien-emies"
     description: 
       - "‘Chess With Frienemies' is a full stack Ruby on Rails/Python/React application that allows users to sign into an account and connect with their friends to play games of chess. Users can play multiple games at once with different users on their friends list."
-      - "Worked on the Users back end to create RESTful API endpoints for the front end to consume."
-      - "Technology Used: Ruby on Rails, Python, Javascript, Websockets, CircleCI"
+      - "Worked on the Users back end application to create 8 RESTful API endpoints for the front end to consume."
+      - "Technologies Used: Ruby on Rails, Python, Javascript, Websockets, CircleCI"
     image: <img src="assets/img/chess_fight.jpeg" alt="Chess Fight" width="200"/>
