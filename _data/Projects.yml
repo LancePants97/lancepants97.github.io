@@ -15,3 +15,4 @@ contents:
       - "Worked on the Users back end application to create 8 RESTful API endpoints for the front end to consume."
       - "Technologies Used: Ruby on Rails, Python, Javascript, Websockets, CircleCI"
     image: <img src="assets/img/chess_fight.jpeg" alt="Chess Fight" width="200"/>
+    image2: <img src="assets/img/chess-demo.gif" alt="Chess Gif" width="500"/>
