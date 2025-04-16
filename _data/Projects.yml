@@ -16,3 +16,10 @@ contents:
       - "Technologies Used: Ruby on Rails, Python, Javascript, Websockets, CircleCI"
     image: <img src="assets/img/chess_fight.jpeg" alt="Chess Fight" width="400"/>
     image2: <img src="assets/img/chess-demo.gif" alt="Chess Gif" width="500"/>
+  
+    - title: "Delivery Day"
+    description: 
+      - "‘Delivery Day' is a full stack Ruby on Rails application that takes in a set of locations and routes them in the most optimal order using the Mapquest API"
+      - "I created this application to help save some time on days that I am delivering for my part time job."
+      - "Technologies Used: Ruby on Rails, Javascript"
+    image: <img src="assets/img/tlb_routing_demo.gif" alt="Delivery Gif" width="400"/>
